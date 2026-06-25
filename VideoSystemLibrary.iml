@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="EclipseModuleManager">
+    <libelement value="jar://D:/javafx-sdk-21.0.10/lib/javafx.base.jar!/" />
+    <libelement value="jar://D:/javafx-sdk-21.0.10/lib/javafx.controls.jar!/" />
+    <libelement value="jar://D:/javafx-sdk-21.0.10/lib/javafx.fxml.jar!/" />
+    <libelement value="jar://D:/javafx-sdk-21.0.10/lib/javafx.graphics.jar!/" />
+    <libelement value="jar://D:/javafx-sdk-21.0.10/lib/javafx.media.jar!/" />
+    <libelement value="jar://D:/javafx-sdk-21.0.10/lib/javafx.swing.jar!/" />
+    <libelement value="jar://D:/javafx-sdk-21.0.10/lib/javafx.web.jar!/" />
+    <libelement value="jar://D:/javafx-sdk-21.0.10/lib/javafx-swt.jar!/" />
+    <libelement value="jar://$USER_HOME$/Desktop/mysql-connector-j-9.6.0/mysql-connector-j-9.6.0.jar!/" />
+    <libelement value="jar://C:/Program Files/Java/javafx-sdk-26.0.1/lib/javafx.base.jar!/" />
+    <libelement value="jar://C:/Program Files/Java/javafx-sdk-26.0.1/lib/javafx.controls.jar!/" />
+    <libelement value="jar://C:/Program Files/Java/javafx-sdk-26.0.1/lib/javafx.fxml.jar!/" />
+    <libelement value="jar://C:/Program Files/Java/javafx-sdk-26.0.1/lib/javafx.graphics.jar!/" />
+    <libelement value="jar://C:/Program Files/Java/javafx-sdk-26.0.1/lib/javafx.media.jar!/" />
+    <libelement value="jar://C:/Program Files/Java/javafx-sdk-26.0.1/lib/javafx.swing.jar!/" />
+    <libelement value="jar://C:/Program Files/Java/javafx-sdk-26.0.1/lib/javafx.web.jar!/" />
+    <libelement value="jar://C:/Program Files/Java/javafx-sdk-26.0.1/lib/javafx-swt.jar!/" />
+    <libelement value="jar://C:/Program Files/Java/javafx-sdk-26.0.1/lib/jdk.jsobject.jar!/" />
+    <libelement value="jar://C:/Program Files/Java/javafx-sdk-26.0.1/lib/jfx.incubator.input.jar!/" />
+    <libelement value="jar://C:/Program Files/Java/javafx-sdk-26.0.1/lib/jfx.incubator.richtext.jar!/" />
+    <src_description expected_position="0">
+      <src_folder value="file://$MODULE_DIR$/src" expected_position="0" />
+    </src_description>
+  </component>
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/bin" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="module-library" exported="">
+      <library name="javafx.base.jar">
+        <CLASSES>
+          <root url="jar://D:/javafx-sdk-21.0.10/lib/javafx.base.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library name="javafx.controls.jar">
+        <CLASSES>
+          <root url="jar://D:/javafx-sdk-21.0.10/lib/javafx.controls.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library name="javafx.fxml.jar">
+        <CLASSES>
+          <root url="jar://D:/javafx-sdk-21.0.10/lib/javafx.fxml.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library name="javafx.graphics.jar">
+        <CLASSES>
+          <root url="jar://D:/javafx-sdk-21.0.10/lib/javafx.graphics.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library name="javafx.media.jar">
+        <CLASSES>
+          <root url="jar://D:/javafx-sdk-21.0.10/lib/javafx.media.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library name="javafx.swing.jar">
+        <CLASSES>
+          <root url="jar://D:/javafx-sdk-21.0.10/lib/javafx.swing.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library name="javafx.web.jar">
+        <CLASSES>
+          <root url="jar://D:/javafx-sdk-21.0.10/lib/javafx.web.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library name="javafx-swt.jar">
+        <CLASSES>
+          <root url="jar://D:/javafx-sdk-21.0.10/lib/javafx-swt.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library name="mysql-connector-j-9.6.0.jar">
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Desktop/mysql-connector-j-9.6.0/mysql-connector-j-9.6.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="C:/Program Files/Java/javafx-sdk-26.0.1/lib/javafx.base.jar">
+        <CLASSES>
+          <root url="jar://C:/Program Files/Java/javafx-sdk-26.0.1/lib/javafx.base.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="C:/Program Files/Java/javafx-sdk-26.0.1/lib/javafx.controls.jar">
+        <CLASSES>
+          <root url="jar://C:/Program Files/Java/javafx-sdk-26.0.1/lib/javafx.controls.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="C:/Program Files/Java/javafx-sdk-26.0.1/lib/javafx.fxml.jar">
+        <CLASSES>
+          <root url="jar://C:/Program Files/Java/javafx-sdk-26.0.1/lib/javafx.fxml.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="C:/Program Files/Java/javafx-sdk-26.0.1/lib/javafx.graphics.jar">
+        <CLASSES>
+          <root url="jar://C:/Program Files/Java/javafx-sdk-26.0.1/lib/javafx.graphics.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="C:/Program Files/Java/javafx-sdk-26.0.1/lib/javafx.media.jar">
+        <CLASSES>
+          <root url="jar://C:/Program Files/Java/javafx-sdk-26.0.1/lib/javafx.media.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="C:/Program Files/Java/javafx-sdk-26.0.1/lib/javafx.swing.jar">
+        <CLASSES>
+          <root url="jar://C:/Program Files/Java/javafx-sdk-26.0.1/lib/javafx.swing.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="C:/Program Files/Java/javafx-sdk-26.0.1/lib/javafx.web.jar">
+        <CLASSES>
+          <root url="jar://C:/Program Files/Java/javafx-sdk-26.0.1/lib/javafx.web.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="C:/Program Files/Java/javafx-sdk-26.0.1/lib/javafx-swt.jar">
+        <CLASSES>
+          <root url="jar://C:/Program Files/Java/javafx-sdk-26.0.1/lib/javafx-swt.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jdk.jsobject.jar">
+        <CLASSES>
+          <root url="jar://C:/Program Files/Java/javafx-sdk-26.0.1/lib/jdk.jsobject.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jfx.incubator.input.jar">
+        <CLASSES>
+          <root url="jar://C:/Program Files/Java/javafx-sdk-26.0.1/lib/jfx.incubator.input.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jfx.incubator.richtext.jar">
+        <CLASSES>
+          <root url="jar://C:/Program Files/Java/javafx-sdk-26.0.1/lib/jfx.incubator.richtext.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="library" name="mysql-connector-j-9.6.0" level="project" />
+  </component>
+</module>

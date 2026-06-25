@@ -9,10 +9,15 @@ import javafx.scene.text.Font;
 import javafx.scene.text.Text;
 import javafx.stage.Stage;
 
+/**
+ * Main application entry point for the Video Library System.
+ * Provides the dashboard with navigation to all interfaces.
+ */
 public class Main extends Application {
+
     @Override
     public void start(Stage primaryStage) {
-        Text title = new Text("Movie Library System");
+        Text title = new Text("Video Library System");
         title.setFont(new Font("Serif", 24));
 
         Button btnGenre = new Button("1. Manage Genres");
@@ -20,8 +25,9 @@ public class Main extends Application {
         Button btnCustomer = new Button("3. Customer Registration");
         Button btnRental = new Button("4. Rental Process");
 
-      
-        String style = "-fx-background-color: darkslateblue; -fx-text-fill: white; -fx-min-width: 200px;";
+        String style = "-fx-background-color: darkslateblue; " +
+                "-fx-text-fill: white; " +
+                "-fx-min-width: 200px;";
         btnGenre.setStyle(style);
         btnMovie.setStyle(style);
         btnCustomer.setStyle(style);
@@ -44,7 +50,5 @@ public class Main extends Application {
 
     public static void main(String[] args) {
         launch(args);
-        
-        
     }
 }
